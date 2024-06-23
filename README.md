@@ -1,1 +1,2 @@
-# Klasy
+Wojciech Duchiewicz
+s31670
